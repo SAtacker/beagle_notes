@@ -1,3 +1,14 @@
+---
+title: "Linux and Beagleboard"
+date: 2021-01-29T13:23:34+05:30
+description: "My notes while studying beaglebone pocket"
+menu:
+  sidebar:
+    name: Linux
+    identifier: linux
+    weight: 20
+---
+
 # Beagle_Notes
 
 ## Boot
